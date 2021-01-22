@@ -2,11 +2,11 @@
 
 ## Part 1. Introduction to Machine Learning
 
--Python Recap
--Intermediate Python
--Machine Learning Introduction
--Data Generation & Visualisation
--Linear Algebra in Python
+- Python Recap
+- Intermediate Python
+- Machine Learning Introduction
+- Data Generation & Visualisation
+- Linear Algebra in Python
 
 ## Part 2. Supervised Learning Algorithms
 
